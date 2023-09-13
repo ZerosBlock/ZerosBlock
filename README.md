@@ -3,9 +3,8 @@
 <h3 align="center">World's #1 Blockchain Based Software Solution Company</h3>
 
 - 🔭 we are currently working on **BRC20 DEX In Bitcoin Blockchain**
-<img class="image" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif" alt="coding" />
-
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400"   src="https://static.wixstatic.com/media/a6b7b4_208ff63a0ed44c8cb411077d3377d882~mv2.gif"/>
+<h3 align="left">Connect with us :</h3>
 <p align="left">
 <a href="https://twitter.com/zerosblock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zerosblock" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zerosblock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerosblock" height="30" width="40" /></a>
